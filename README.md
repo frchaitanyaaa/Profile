@@ -43,16 +43,6 @@
 
 ---
 
-## 📈 Stats & Extra
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Frchaitanya&layout=compact&theme=radical)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Frchaitanya&color=blue)
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
 ## 📫 Let's Connect
 - **LinkedIn:** [Chaitanya Pagare](https://www.linkedin.com/in/chaitanya-pagare/)
 - **Email:** [Frchaitanyaaa@gmail.com](mailto:Frchaitanyaaa@gmail.com)
