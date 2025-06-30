@@ -108,7 +108,7 @@
 ### 🤖 Expression Detector (AI Project)
 - **Description:** Facial expression detection project using OpenCV and TensorFlow.
 - **Tech Stack:** Python, OpenCV, TensorFlow
-- [GitHub Repository](https://github.com/Frchaitanya/Expression-Detector) *(Fork or clone and modify as needed)*
+- [GitHub Repository](https://github.com/Frchaitanya/Expression-Detector)
 
 ---
 
