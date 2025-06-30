@@ -2,7 +2,7 @@
 ## Hi there, I'm Chaitanya Pagare 👋
 
 <p align="center">
-<img src="https://media1.tenor.com/m/10Zdx_RXqgcAAAAC/programming-crazy.gif" width="104.99999999999999" height="77" alt="a cartoon of a man sitting in front of a computer with a fist in the air" fetchpriority="high" style="max-width: 105px;">
+<img src="https://media1.tenor.com/m/10Zdx_RXqgcAAAAC/programming-crazy.gif" width="300" height="210" alt="a cartoon of a man sitting in front of a computer with a fist in the air" fetchpriority="high" style="max-width: 105px;">
 </p>
 
 ## 🚀 About Me
