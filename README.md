@@ -8,11 +8,6 @@
 - 🧠 I also explore Machine Learning with Python and TensorFlow and have experience in SQL-based databases.
 - 💡 I like working on real-world projects and continuously learning new frameworks and technologies.
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Frchaitanya&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frchaitanya&show_icons=true&theme=radical&cache_seconds=1800)
-
----
 
 ## 🚀 Tech Stack & Tools  
 
@@ -26,6 +21,9 @@
 ### 🗄️ Databases
 ![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+
+
 ### 🛠 Version Control & Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -37,16 +35,6 @@
 - **Description:** A desktop application to manage a mini library catalog. Features include adding, editing, deleting, and searching books with genre distribution displayed via a PieChart.
 - **Tech Stack:** Java, JavaFX, Scene Builder
 - [GitHub Repository](https://github.com/Frchaitanya/Library-Catalog-System) *(If not created yet, you can push and link it)*
-
-### 🚌 Bus Ticket Booking System (Servlet-based Web App)
-- **Description:** A dynamic web application built using Java Servlets for online bus ticket booking with features like seat selection, booking management, and admin panel.
-- **Tech Stack:** Java, Servlet, JSP, MySQL
-- [GitHub Repository](https://github.com/Frchaitanya/Bus-Ticket-Booking-System) *(Update link when repo is live)*
-
-### 📡 Computer Networks Practical Programs
-- **Description:** Collection of Java and C-based programs covering computer network concepts like Routing (RIP, OSPF), Topologies, and Socket programming.
-- **Tech Stack:** Java, C, Networking Tools
-- [GitHub Repository](https://github.com/Frchaitanya/Computer-Networks-Practicals) *(Optional - If you want to maintain one)*
 
 ### 🤖 Expression Detector (AI Project)
 - **Description:** Facial expression detection project using OpenCV and TensorFlow.
