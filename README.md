@@ -2,7 +2,7 @@
 ## Hi there, I'm Chaitanya Pagare 👋
 
 <p align="center">
- <div class="tenor-gif-embed" data-postid="7866345" data-share-method="host" data-aspect-ratio="1.36364" data-width="100%"><a href="https://tenor.com/view/programming-crazy-hard-developer-cramming-gif-7866345">Programming Crazy GIF</a>from <a href="https://tenor.com/search/programming-gifs">Programming GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://media1.tenor.com/m/10Zdx_RXqgcAAAAC/programming-crazy.gif" width="104.99999999999999" height="77" alt="a cartoon of a man sitting in front of a computer with a fist in the air" fetchpriority="high" style="max-width: 105px;">
 </p>
 
 ## 🚀 About Me
