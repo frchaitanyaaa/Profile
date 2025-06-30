@@ -1,6 +1,10 @@
 
 ## Hi there, I'm Chaitanya Pagare 👋
 
+<p align="center">
+ <div class="tenor-gif-embed" data-postid="7866345" data-share-method="host" data-aspect-ratio="1.36364" data-width="100%"><a href="https://tenor.com/view/programming-crazy-hard-developer-cramming-gif-7866345">Programming Crazy GIF</a>from <a href="https://tenor.com/search/programming-gifs">Programming GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</p>
+
 ## 🚀 About Me
 
 - 🎓 I'm a Computer Science student passionate about software development, backend engineering, and building scalable applications.
