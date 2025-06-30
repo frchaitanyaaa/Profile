@@ -10,6 +10,13 @@
 
 
 ## 🚀 Tech Stack & Tools
+<div>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=frchaitanyaaa&layout=compact&theme=radical" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=frchaitanyaaa&layout=compact&theme=default" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frchaitanyaaa&layout=compact" />
+</picture>
+</div>
 
 ### 💻 Programming Languages
 <p>
@@ -80,11 +87,6 @@
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=frchaitanyaaa&layout=compact&theme=radical" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=frchaitanyaaa&layout=compact&theme=default" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frchaitanyaaa&layout=compact" />
-</picture>
 
 </div>
 
