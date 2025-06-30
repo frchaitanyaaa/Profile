@@ -59,8 +59,10 @@
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
----
+
 ## 📊 GitHub Stats & Activity
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=frchaitanyaaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
@@ -68,7 +70,7 @@
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=frchaitanyaaa&show_icons=true&include_all_commits=true&count_private=true" />
 </picture>
 
-<br/>
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=frchaitanyaaa&theme=radical" />
@@ -76,13 +78,15 @@
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=frchaitanyaaa" />
 </picture>
 
-<br/>
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=frchaitanyaaa&layout=compact&theme=radical" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=frchaitanyaaa&layout=compact&theme=default" />
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frchaitanyaaa&layout=compact" />
 </picture>
+
+</div>
 
 
 ---
